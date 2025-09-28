@@ -1,0 +1,28 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales de editores
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+
+# Eclipse / IntelliJ
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# Carpetas de build (por si en algún momento añades código Java o Maven aquí)
+bin/
+target/
+out/
+
+# Gitpod
+.gitpod/
