@@ -76,8 +76,7 @@ learning-roadmap/
 │ ├── selenium.md
 │ └── testng.md
 
-yaml
-Copiar código
+
 
 ---
 
